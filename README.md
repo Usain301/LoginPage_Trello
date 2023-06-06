@@ -16,7 +16,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 $ git clone https://github.com/usain301/LoginPage_Trello.git
 
 # Access
-$ cd Travel_App_Ui
+$ cd LoginPage_Trello
 
 # Pull dependencies
 $ flutter pub get
